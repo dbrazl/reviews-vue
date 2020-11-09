@@ -1,24 +1,5 @@
-# reviews
+# Review simple section
 
-## Project setup
-```
-yarn install
-```
+This is a simple review section to test Vue functionality.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="https://git-hub.s3.amazonaws.com/reviews-vue/print.png" width="583" height="272" />
